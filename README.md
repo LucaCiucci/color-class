@@ -1,2 +1,2 @@
-# color-class
- Provides a `Color` class
+
+# Typescript module
